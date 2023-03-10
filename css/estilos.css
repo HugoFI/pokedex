@@ -1,0 +1,31 @@
+body{
+    font-family: 'Press Start 2P', cursive;
+}
+.todo{
+    width: 1000px;
+  }
+  
+  @media screen and (max-width: 768px) {
+    .todo {
+      width: 500px;
+    }
+  }
+.kanto-map{
+    position: relative;
+    display: inline-block;
+    text-align: center;
+}
+.centrado {
+    position: absolute;
+    top: 5%;
+    left: 50%;
+    transform: translate(-5%, -50%);
+    font-size: 60px;
+}
+.pokedex {
+    position: absolute;
+    top: 15%;
+    left: 5%;
+    transform: translate(-15%, -5%);
+    font-size: 60px;
+}
