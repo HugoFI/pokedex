@@ -1,15 +1,15 @@
 body{
     font-family: 'Press Start 2P', cursive;
-    background-color: rgb(255, 222, 160);
+    background-color: rgb(173, 137, 199);
 }
 img{
-    width: 20%;
+    width: 19%;
 }
 h1{
     text-align: center;
 }
 #tipo-1{
-    background-color: orange;
+    background-color:rgb(149, 0, 255);
     border-radius: 6px;
     padding: 0.1px;
     padding-top: 5px;
@@ -18,7 +18,7 @@ h1{
     padding-right: 5px;
 }
 #tipo-2{
-    background-color: lightblue;
+    background-color:rgb(173, 81, 194);
     border-radius: 6px;
     padding: 0.1px;
     padding-top: 5px;
